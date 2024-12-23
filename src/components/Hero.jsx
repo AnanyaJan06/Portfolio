@@ -39,7 +39,7 @@ const Hero = () => {
             <motion.p variants={ChildVariants} className='my-2 max-w-lg py-6 text-xl leading-relaxed tracking-tighter'>
             A MERN stack developer at levelX with hands-on experience in building full-stack applications using MongoDB, Express.js, React, and Node.js. I have developed live projects, including a restaurant and café ordering system with QR code functionality and real-time admin notifications via WhatsApp. I specialize in creating responsive, user-friendly interfaces, integrating backend services with React, and managing databases. Additionally, I am skilled in using Tailwind CSS for efficient styling and have worked with Twilio for communication features.
             </motion.p>
-            <motion.a variants={ChildVariants} href="/resume.pdf" target="_blank" rel="noopener noreferrer" download className='bg-white rounded-full p-4 text-sm text-stone-800 mb-10'>
+            <motion.a variants={ChildVariants} href="/Resume.pdf" target="_blank" rel="noopener noreferrer" download className='bg-white rounded-full p-4 text-sm text-stone-800 mb-10'>
               Download Resume
             </motion.a>
             </motion.div> 

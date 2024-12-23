@@ -17,11 +17,8 @@ function Navbar() {
         <a href="https://github.com/AnanyaJan06" rel="noopener noreferrer" aria-label='GitHub'>
         <FaGithub />
         </a>
-        <a href="https://www.instagram.com/in/your-instagram-profile" rel="noopener noreferrer" aria-label='Instagram'>
+        <a href="https://www.instagram.com/_ananya_jan/profilecard/?igsh=MWF5MjJkbnF4cjBwNw==" rel="noopener noreferrer" aria-label='Instagram'>
         <FaInstagram />
-        </a>
-        <a href="https://www.twitter.com/in/your-twitter-profile" rel="noopener noreferrer" aria-label='Twitter'>
-        <FaTwitter/>
         </a>
         </div>
       </nav>
