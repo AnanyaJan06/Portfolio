@@ -1,10 +1,14 @@
+import ProjectImg1 from '../assets/Namelogo.jpg'
+import ProjectImg2 from '../assets/project1logo.jpg'
+import ProjectImg3 from '../assets/project2logo.png'
+
 const Projects=[
     {
         id:1,
         name:"Portfolio",
         title:"Portfolio Website",
         description:`A personal portfolio website showcasing projects,skills,experience and contact information.`,
-        image:"src/assets/Namelogo.jpg",
+        image:ProjectImg1,
         technologies:["HTML","CSS","React","TailwindCSS"]
     },
     {
@@ -16,7 +20,7 @@ const Projects=[
                      directly into the POS system without staff intervention.This streamlined system offers a variety of offerings, from local coffee to smoothies and desserts, all with a touch of local 
                      inspiration. The interface promotes efficient, independent ordering, making it ideal for busy customers seeking a smooth dining 
                      experience.`,
-        image:"src/assets/project1logo.jpg",
+        image:ProjectImg2,
         technologies:["HTML","CSS","React","TailwindCSS","Framer-motion","Context API"]
     },
     {
@@ -25,7 +29,7 @@ const Projects=[
         title:" E-commerce Web Application",
         description:` Designed and developed a robust eCommerce platform featuring user authentication, shopping cart, wishlist, and secure 
                       payment integration.`,
-        image:"src/assets/project2logo.png",
+        image:ProjectImg3,
         technologies:["HTML","CSS","EJS","NodeJs","ExpressJs","Mongodb","Twilio","Multer"]
     }
 ]
